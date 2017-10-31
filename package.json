@@ -1,0 +1,24 @@
+{
+  "name": "cdt-logger",
+  "version": "0.0.1",
+  "description": "Logging module for CDT server",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitscm.cisco.com/it-gats-cdtechnologyarchitecture-cdtsdaas/cdt-logger.git"
+  },
+  "keywords": [
+    "cdt",
+    "app",
+    "logging"
+  ],
+  "author": "alexamil",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "winston": "^2.3.1"
+  }
+}
